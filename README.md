@@ -6,7 +6,7 @@
 
 ## Visão geral
 
-O Digi utiliza um workflow no n8n para receber mensagens, identificar a intenção do estudante e encaminhar a solicitação ao fluxo correspondente. A infraestrutura é conteinerizada com Docker Compose.
+O agente utiliza um workflow no n8n para receber mensagens, identificar a intenção do estudante e encaminhar a solicitação ao fluxo correspondente. A infraestrutura é conteinerizada com Docker Compose.
 
 ### Funcionalidades documentadas
 
