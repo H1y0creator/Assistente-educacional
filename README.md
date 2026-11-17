@@ -1,4 +1,4 @@
-# Digi 2.0
+# Agente de whatsapp
 
 **Assistente educacional via WhatsApp**, desenvolvido para apoiar estudantes com respostas a dúvidas, notícias, questionários e orientações administrativas.
 
